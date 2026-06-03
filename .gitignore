@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Excel lock/temp files
+~$*.xlsx
+*.tmp
+
+# Scratch source downloads (annual report PDFs / HTML)
+*.pdf
+*.html
